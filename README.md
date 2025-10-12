@@ -2,15 +2,15 @@
 
 Workflow Link:https://mohitsharmaii.app.n8n.cloud/workflow/YvKLqFW0YgIUkcMq
 
-<img width="1775" height="697" alt="image" src="https://github.com/user-attachments/assets/b547c5dc-f94f-452e-b09c-f25c277ed7d3" />
-
 This n8n workflow automates social media posting to Twitter (X) and Reddit. It uses a Google Sheet as a content scheduler, triggering the workflow every time a new row is added.
 
 ## Workflow Overview
 
 The workflow is designed for simplicity and efficiency. It monitors a specific Google Sheet for new rows. When a new row is detected, it automatically takes the content (`post_text` and `image_url`) and posts it to your configured Twitter and Reddit accounts in parallel.
 
-![n8n Workflow Diagram](https://i.imgur.com/uCjL02r.png)
+
+<img width="1775" height="697" alt="image" src="https://github.com/user-attachments/assets/b547c5dc-f94f-452e-b09c-f25c277ed7d3" />
+
 
 ##  Features
 
