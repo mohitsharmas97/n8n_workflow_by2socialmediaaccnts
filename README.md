@@ -1,5 +1,6 @@
 # n8n Social Media Automation from Google Sheets
 
+Video Link:https://www.youtube.com/watch?v=g_Gqtg7g6VU
 Workflow Link:https://mohitsharmaii.app.n8n.cloud/workflow/YvKLqFW0YgIUkcMq
 
 This n8n workflow automates social media posting to Twitter (X) and Reddit. It uses a Google Sheet as a content scheduler, triggering the workflow every time a new row is added.
